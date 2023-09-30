@@ -8,7 +8,7 @@ router.get("/", function (req, res, next) {
     description:
       "Parrot is a real-time conversion translator written in javascript, It's use Express framework to handle with request and g-translator module for translation service",
     keywords: "real-time translator,Parrot Translator",
-    author: "Pawan Kumar Sahu",
+    author: "Ashutosh Gupta",
   });
 });
 
